@@ -220,9 +220,15 @@ nav a.selected, nav a:hover {
   color: #32673f;
 }
 
+#fpheadline {
+  background-color: black;
+  padding-bottom: 5%;
+}
 
-
-
+#exit {
+  height: 40px;
+  width: 50px;
+}
 
 
 

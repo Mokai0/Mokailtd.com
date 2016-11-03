@@ -103,7 +103,9 @@ footer {
   margin: 0 5px;
 }
 
-
+#devButton {
+  margin-bottom: 10px;
+}
 
 /**********************************
 PAGE: PORTFOLIO
@@ -229,13 +231,3 @@ nav a.selected, nav a:hover {
   height: 40px;
   width: 50px;
 }
-
-
-
-
-
-
-
-
-
-
